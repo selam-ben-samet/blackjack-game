@@ -3,7 +3,7 @@
 
 First a loading screen will meet you but it is not real, it is just for 4 secs but we wanted to make it because we wanted to practice.
 
-![loading screen](https://www.hizliresim.com/dbcdwqg)
+![loading screen](loading screen.png)
 
 Then you will reach to the main menu and you will see 3 buttons to start the game, to see card values and to quit the game and there is a speaker icon for turning off music but it does not work exactly because if you turn off the music, still music will start again in game we could not solve this problem :(
 
